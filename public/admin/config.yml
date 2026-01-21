@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: doomicusx/auraskinmaria
+  repo: doomicusx/auraskindoomicus-demo
   branch: main
-  site_domain: https://auraskinmaria.pages.dev
-  base_url: https://auraskinmaria.pages.dev
+  site_domain: https://auraskindoomicus-demo.pages.dev/
+  base_url: https://auraskindoomicus-demo.pages.dev/
   auth_endpoint: /api/auth
 media_folder: "public/images"
 public_folder: "/images"
